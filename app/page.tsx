@@ -61,7 +61,7 @@ export default function LoginPage() {
           </div>
           <div>
             <CardTitle className="text-2xl font-bold tracking-tight">
-              SkillFitness
+              Entrenamiento Integral
             </CardTitle>
             <CardDescription className="text-muted-foreground mt-2">
               Ingresá con tus credenciales para acceder

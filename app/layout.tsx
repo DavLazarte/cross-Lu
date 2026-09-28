@@ -10,12 +10,12 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "SkillFitness - Gestión",
-  description: "App de gestión y planificación de SkillFitness",
+  title: "Entrenamiento Integral - Gestión",
+  description: "App de gestión y planificación de Entrenamiento Integral",
   appleWebApp: {
     capable: true,
     statusBarStyle: "black-translucent",
-    title: "SkillFitness",
+    title: "Entrenamiento Integral",
     startupImage: "/icon-512.png",
   },
   icons: {

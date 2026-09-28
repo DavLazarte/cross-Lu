@@ -58,12 +58,12 @@ export function PwaInstallPrompt() {
       <div className="bg-card border border-border rounded-2xl shadow-2xl p-4 flex items-center gap-4">
         {/* Icon */}
         <div className="w-14 h-14 rounded-xl overflow-hidden shrink-0 bg-black">
-          <img src="/iconlogo.jpg" alt="SkillFitness" className="w-full h-full object-cover" />
+          <img src="/iconlogo.jpg" alt="Entrenamiento Integral" className="w-full h-full object-cover" />
         </div>
 
         {/* Text */}
         <div className="flex-1 min-w-0">
-          <p className="font-bold text-sm">Instalá SkillFitness</p>
+          <p className="font-bold text-sm">Instalá Entrenamiento Integral</p>
           <p className="text-xs text-muted-foreground mt-0.5 leading-tight">
             Accedé más rápido desde tu pantalla de inicio, sin abrir el navegador.
           </p>

@@ -2,9 +2,9 @@ import type { MetadataRoute } from 'next'
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: 'SkillFitness',
-    short_name: 'SkillFitness',
-    description: 'Gestión y Planificación de SkillFitness',
+    name: 'Entrenamiento Integral',
+    short_name: 'Entrenamiento Integral',
+    description: 'Gestión y Planificación de Entrenamiento Integral',
     start_url: '/',
     display: 'standalone',
     background_color: '#09090b',

@@ -82,8 +82,8 @@ export function CoachSidebar() {
               <img src="/iconlogo.jpg" alt="Logo" className="w-full h-full object-cover" />
             </div>
             <div>
-              <h1 className="font-bold text-sidebar-foreground leading-tight">
-                SkillFitness
+              <h1 className="font-bold text-sidebar-foreground leading-tight text-sm">
+                Entrenamiento Integral
               </h1>
               <p className="text-xs text-muted-foreground">Panel de Coach</p>
             </div>
